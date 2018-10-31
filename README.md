@@ -14,4 +14,10 @@ This is a list:
 - item 2
 - item 3
 
+Relative link: 
+
 [about page](about.html)
+
+Absolute link:
+
+[google](https://www.google.com/)
