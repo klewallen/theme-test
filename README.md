@@ -16,7 +16,7 @@ This is a list:
 
 Relative link: 
 
-[about page](about.html)
+[about page](about.md)
 
 Absolute link:
 
